@@ -1,5 +1,5 @@
 {
-    "name": "ScottValueObjects",
+    "name": "warren5236/ScottValueObjects",
     "description": "Value Objects for every day use",
     "require-dev": {
         "phpunit/phpunit": "^9"
