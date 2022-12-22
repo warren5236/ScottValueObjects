@@ -2,6 +2,7 @@
     "name": "warren5236/scottvalueobjects",
     "description": "Value Objects for every day use",
     "license": "MIT",
+    "version": "0.0.1",
     "require": {
         "php": ">=7.4"
     },
