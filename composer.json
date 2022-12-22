@@ -1,6 +1,10 @@
 {
     "name": "warren5236/scottvalueobjects",
     "description": "Value Objects for every day use",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    },
     "require-dev": {
         "phpunit/phpunit": "^9"
     },

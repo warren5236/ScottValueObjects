@@ -1,2 +1,5 @@
 vendor
 bin
+.phpunit.cache
+composer.phar
+.DS_Store
